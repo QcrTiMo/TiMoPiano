@@ -1,4 +1,4 @@
-# TiMoPiano
-将基沃托斯的旋律带入 Minecraft，寻找属于你的青春奇迹。
+# BAMod
+将基沃托斯带入 Minecraft，寻找属于你的青春奇迹。
 
-## 模组地址：https://modrinth.com/mod/timopiano
+## 模组地址：https://modrinth.com/mod/bamod
